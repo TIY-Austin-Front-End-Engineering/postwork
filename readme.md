@@ -38,13 +38,11 @@ By this point you should be getting ready to come to the demo day of the cohort 
   - Complete [SQL Course 1 & 2 on Code School](https://www.codeschool.com/learn/database)
   - Read **All** [13 parts of this Overview of Databases and SQL](http://blog.dancrisan.com/a-tiny-intro-to-database-systems)
   - Complete [Learning SQL The Hard Way](http://sql.learncodethehardway.org/)
-
-### Ruby Assignments
-  - Complete [Learning JS The Hard Way](https://learncodethehardway.org/javascript/)
  
 ### Javascript Assignments
   - Read All of _Eloquent Javascript_
   - Read All of _Javascript The Good Parts_
+  - Complete [Learning JS The Hard Way](https://learncodethehardway.org/javascript/)
   - Complete [Try jQuery](https://www.codeschool.com/courses/try-jquery)
   - Complete [React and Node Courses](https://www.codeschool.com/learn/javascript)
 
