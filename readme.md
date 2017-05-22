@@ -6,31 +6,16 @@
 ## 1 to 3 Months
 The goal of the first few months after graduation is to keep your skills sharp while you are looking for a job. That is why a lot of these assignments are things we have done in class. You are not tredding new ground, but are diving deeper and improving on your current skills. In addition to the assignments listed below, you should be completing one kata on CodeWars or 1 assignment from exercism.io, or one project euler problem, or one challenge on hacker rank **every day**. This habit of continual practice will be inavluable as you persue your career as a software developer. *Focus* and finding your pattern is going to be so very important in the next few months. Start a code and coffee with your classmates, work on your group project with your existing partners. Start to add more features and improve the test coverage of the agency project app. Code every day. Keep Learning. Keep Practicing. Keep Growing.
 
-### Rails Assignments
-  - Complete [Michael Hartl Rails Tutorial](https://www.railstutorial.org/)
-  - Listen to [10 years of rails with DHH](https://thechangelog.com/145/) if you haven't already.
-  - Write a twitter clone app from scratch matching as many features as you can from twitter.
-    - This app should be well covered by tests.
-    - Be sure to add direct messages between users.
-    - Remember that twitter has notifications that you receive whenever someone RTs, Likes, or Replies to your post.
-    - For an added challenge (and more SQL practice), write all your joins and `where` statements in SQL instead of using the built in active record methods.
 
-### SQL Assignments
-  - Go back over our prior notes on SQL from class.
-  - Complete [SQL Teaching](https://www.sqlteaching.com/) Again.
-  - Complete [SQL Course 1 & 2 on Code School](https://www.codeschool.com/learn/database)
-  - Read **All** [13 parts of this Overview of Databases and SQL](http://blog.dancrisan.com/a-tiny-intro-to-database-systems)
 
-### Ruby Assignments
-  - Take ["Final Assessment" Quiz](https://github.com/tiy-austin-ror-jan2015/postwork/blob/master/FinalAssessment.pdf) (with no computer) and feel condfident with results
+### Assignments
   - Be able to write FizzBuzz on Paper (or Whiteboard) forward and backward.
-  - Complete [RubyKoans](http://rubykoans.com/) Start to Finish all over again.
-  - Complete [Ruby Bits 1 & 2](https://www.codeschool.com/paths/ruby)
+  - Complete [JS Koans](https://github.com/hackages/es6.koans) Start to Finish.
+  - Complete [Javascript Language Path](https://www.codeschool.com/learn/javascript)
   - Write Tic Tac Toe with tests and OO Practices.
   - Write (a.k.a blog) about the importance of OO, SOLID, and Testing to good code bases. (A series of posts on these would work best)
 
 ### Resources
-  - Watch [Building a Gem](http://railscasts.com/episodes/245-new-gem-with-bundler)
   - Watch [Boundaries](https://www.destroyallsoftware.com/talks/boundaries)
   - Watch [Magic Tricks of Testing](https://www.youtube.com/watch?v=URSWYvyc42M)
   - Read [Rules for Developers](https://robots.thoughtbot.com/sandi-metz-rules-for-developers)
@@ -39,30 +24,32 @@ The goal of the first few months after graduation is to keep your skills sharp w
   - Sign up for [exercism](http://exercism.io/)
   - Sign up for [codewars](http://www.codewars.com/)
   - Sign up for [hackerrank](https://www.hackerrank.com/)
-  - Read Practical Object Oriented Programming In Ruby by Sandi Metz
  
  
 ## 3 to 6 Months
 By this point you should be getting ready to come to the demo day of the cohort that has come after you and you can impart words wof wisdom to them. The goal of these tasks and resources are to keep giving you someplace to go when you want to learn more. Resources to help your continued growth and to push you into new areas
 
-### Rails Assignments
-  - Write a rails app that contains zero additional gems. Perhaps clone a project we did towards the end of class. Build that functionality out with straight ruby classes in lib.
-  - Write a gem! Its great practice and super easy with bundler.
+### React Assignments
+  - Write a react-redux app that contains zero additional packages. Perhaps clone a project we did towards the end of class. Build that functionality out with straight js functions. How would you replace underscore, moment, or react-stars if you had to write it yourself?
+  - Write your own library! Its great practice and super easy with npm.
 
-### SQL Assignments
+### SQL Assignments (Only if you're interested in backend)
+  - Complete [SQL Teaching](https://www.sqlteaching.com/) Again.
+  - Complete [SQL Course 1 & 2 on Code School](https://www.codeschool.com/learn/database)
+  - Read **All** [13 parts of this Overview of Databases and SQL](http://blog.dancrisan.com/a-tiny-intro-to-database-systems)
   - Complete [Learning SQL The Hard Way](http://sql.learncodethehardway.org/)
 
 ### Ruby Assignments
-  - Complete [Learning Ruby The Hard Way](http://learnrubythehardway.org/book/)
+  - Complete [Learning JS The Hard Way](https://learncodethehardway.org/javascript/)
  
 ### Javascript Assignments
   - Read All of _Eloquent Javascript_
   - Read All of _Javascript The Good Parts_
-  - Complete [Javascript Road Trip](https://www.codeschool.com/courses/javascript-road-trip-part-1)
   - Complete [Try jQuery](https://www.codeschool.com/courses/try-jquery)
-  - Read Chapters 1-4 of [Eloquent Javascript](http://eloquentjavascript.net/)
+  - Complete [React and Node Courses](https://www.codeschool.com/learn/javascript)
+
   
-####Resources
+#### Resources
   - Read Clean Code
   - Read [SICP Book](https://xuanji.appspot.com/isicp/)
   - Read [Compiler Architechture](http://cs.lmu.edu/~ray/notes/compilerarchitecture/)
